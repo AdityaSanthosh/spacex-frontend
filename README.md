@@ -1,7 +1,7 @@
 # spacex-frontend
 A Front-end Web Ui for SpaceX API data
 
-This Web UI is built upon Vue.js, vue-router, Jquery, Bootstrap-Vue, express, axios, popper.js, lodash
+This Web UI is built upon Vue.js, vue-router, Vanilla js, Jquery, Bootstrap-Vue, express, axios, popper.js, lodash
 
 The data is fetched from this api https://api.spacexdata.com/v3/launches?limit=100 using Axios library.<br />
 <br />
