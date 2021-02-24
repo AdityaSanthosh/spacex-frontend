@@ -23,4 +23,4 @@ In order to run this page locally
 2) Install the dependencies from package.json with ```npm install``` 
 3) Initialise the localhost server using ```npm run serve```
 
-To see how the resulting page looks, go to screenshots folder
+>To see how the resulting page looks, go to screenshots folder
