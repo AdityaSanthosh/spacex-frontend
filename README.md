@@ -13,6 +13,8 @@ vue-router routes the user to different pages based on the link<br />
 <br />
 The Data filtering Logic and Rendering Logic are written in vue.js<br />
 <br />
+The server configuration used is Nodejs and Express.
+<br />
 The Page is hosted from heroku<br />
 
 You can view the Page here https://spacex-frontend.herokuapp.com/
