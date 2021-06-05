@@ -25,4 +25,4 @@ In order to run this page locally
 2) Install the dependencies from package.json with ```npm install``` 
 3) Initialise the localhost server using ```npm run serve```
 
->To see how the resulting page looks, go to screenshots folder
+![spacex-frontend herokuapp com](https://user-images.githubusercontent.com/45935479/120875707-d571c200-c5ca-11eb-8c00-7562fb302eb6.jpeg)
